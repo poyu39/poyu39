@@ -3,7 +3,7 @@
 
 - 🔭 我正在研究 **LEGO EV3, SPIKE**
 
-- 🌱 我正在學習 **Python, Machine Learning**
+- 🌱 我正在學習 **Python, Java, C, Machine Learning**
 
 - 📫 如何聯絡我 **bruce920309@gmail.com**
 
