@@ -1,7 +1,7 @@
 <h1 align="center">安安👋 Poyu desu~</h1>
 <h3 align="center">\(￣︶￣*\)) 來自台灣的學生 | 菜鳥開發者 | 網路重度者</h3>
 
-- 🔭 我正在研究 **LEGO EV3, SPIKE**
+- 🔭 我正在研究 **Robot（特別是 LEGO EV3, SPIKE）**
 
 - 🌱 我正在學習 **Python, Java, C, Machine Learning**
 
