@@ -1,9 +1,9 @@
 <h1 align="center">安安👋 Poyu desu~</h1>
 <h3 align="center">\(￣︶￣*\)) 來自台灣的學生 | 菜鳥開發者 | 網路重度者</h3>
 
-- 🔭 我正在研究 **Robot（特別是 LEGO EV3, SPIKE）**
+- 🔭 我正在研究 **Minecraft(Plugin, Server), Robot**
 
-- 🌱 我正在學習 **Python, Java, C, Machine Learning**
+- 🌱 我正在學習 **Python, Java, C**
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="30" /> 如何聯絡我 **poyu#9239**
 
