@@ -13,7 +13,7 @@
 
 <br>
 
-- 👨‍💻 C / C# / C++ / Python / Java
+- 👨‍💻 C / C# / C++ / Python / Java / Web
 - ⚒️ Minecraft Plugin / Robotic / 3D Model
 
 <br>
