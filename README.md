@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<img align="center" src="https://raw.githubusercontent.com/poyu39/poyu39/snk/github-snake.svg">
+<img align="center" src="https://github.com/poyu39/poyu39/blob/snk/github-snake.svg">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=poyu39&theme=one-dark-pro&locale=zh_Hant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![poyu39's GitHub stats](https://github-readme-stats.vercel.app/api?username=poyu39&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/poyu39/github-readme-stats)
 
