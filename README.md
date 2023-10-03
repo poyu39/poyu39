@@ -13,8 +13,8 @@
 
 <br>
 
-- 👨‍💻 C / C# / C++ / Python / Java / Web
-- ⚒️ Minecraft Plugin / Robotic / 3D Model
+- 👨‍💻 Python / C / C++ / HTML / JavaScript / Java
+- ⚒️ Web / Game / Robotic / Model
 
 <!--START_SECTION:waka-->
 
