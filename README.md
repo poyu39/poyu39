@@ -16,9 +16,8 @@
 - 👨‍💻 C / C# / C++ / Python / Java / Web
 - ⚒️ Minecraft Plugin / Robotic / 3D Model
 
-<br>
-<br>
-<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake-dark.svg" />
