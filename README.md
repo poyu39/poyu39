@@ -17,6 +17,15 @@
 - ⚒️ Minecraft Plugin / Robotic / 3D Model
 
 <!--START_SECTION:waka-->
+
+```txt
+Python        9 hrs 48 mins   ████████████████▓░░░░░░░░   66.27 %
+C             2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+R             1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+HTML          43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+MySQL         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
