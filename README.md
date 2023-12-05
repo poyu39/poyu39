@@ -16,6 +16,9 @@
 - 👨‍💻 Python / C / C++ / HTML / JavaScript / Java
 - ⚒️ Web / Game / Robotic / Model
 
+如果我的內容有幫助您，可以考慮幫我買杯咖啡～
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/poyu39)
+
 <!--START_SECTION:waka-->
 
 ```txt
