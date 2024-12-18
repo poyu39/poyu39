@@ -4,7 +4,7 @@
 
 <h3 align="center">
 <a href="https://instagram.com/poyu.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poyu.tw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucso8lkqzr3q8i9pwb9m26kg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucso8lkqzr3q8i9pwb9m26kg" height="30" width="40" /></a>
+<a href="https://youtube.com/@poyu9239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucso8lkqzr3q8i9pwb9m26kg" height="30" width="40" /></a>
 <a href="https://home.gamer.com.tw/profile/index.php?owner=bruce9239" target="blank"><img align="center" src="https://cdn6.aptoide.com/imgs/e/f/a/efae200e586d616b816b01affb3e63d1_icon.png"" alt="ucso8lkqzr3q8i9pwb9m26kg" height="40" width="40" /></a>
 </h3>
 
