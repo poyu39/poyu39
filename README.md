@@ -6,11 +6,8 @@
 <a href="https://instagram.com/poyu.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poyu.tw" height="30" width="40" /></a>
 <a href="https://youtube.com/@poyu9239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucso8lkqzr3q8i9pwb9m26kg" height="30" width="40" /></a>
 <a href="https://home.gamer.com.tw/profile/index.php?owner=bruce9239" target="blank"><img align="center" src="https://cdn6.aptoide.com/imgs/e/f/a/efae200e586d616b816b01affb3e63d1_icon.png"" alt="ucso8lkqzr3q8i9pwb9m26kg" height="40" width="40" /></a>
+<a href="https://www.buymeacoffee.com/poyu39"><img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a>
 </h3>
-
-安安，我是葡萄柚～如果我的內容有幫助您，可以考慮幫我買杯咖啡～
-
- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/poyu39)
 
 <!--START_SECTION:waka-->
 
@@ -31,4 +28,5 @@ Bash         7 mins          ▒░░░░░░░░░░░░░░░░
 </picture>
 
 
-<img align="center" src="https://moe-counter.glitch.me/get/@poyu39?theme=rule34">
+<h3 align="center"><img align="center" src="https://moe-counter.glitch.me/get/@poyu39?theme=rule34"></h3>
+
