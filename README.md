@@ -28,5 +28,6 @@ Bash              54 mins         ▓░░░░░░░░░░░░░░�
 </picture>
 
 
-<h3 align="center"><img align="center" src="https://moe-counter.glitch.me/get/@poyu39?theme=rule34"></h3>
+<h3 align="center"><img align="center" src="https://count.getloli.com/@poyu39?name=poyu39&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"></h3>
+
 
