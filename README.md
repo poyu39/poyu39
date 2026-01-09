@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       2 hrs 49 mins   ██████████████████▒░░░░░░   73.95 %
-Markdown   55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-CSV        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
