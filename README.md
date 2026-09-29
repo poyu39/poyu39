@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            35 mins               █████████████████▓░░░░░░░   70.94 %
-BibTeX         14 mins               ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-OpenEdge ABL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
