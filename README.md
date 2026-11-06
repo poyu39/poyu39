@@ -1,16 +1,3 @@
-
-<!--START_SECTION:waka-->
-
-```txt
-Python         19 mins               ███████████░░░░░░░░░░░░░░   43.53 %
-Markdown       16 mins               █████████░░░░░░░░░░░░░░░░   36.14 %
-TeX            7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-YAML           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
-
-<!--END_SECTION:waka-->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
